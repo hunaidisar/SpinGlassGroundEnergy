@@ -75,7 +75,7 @@ seed = 555     #set random seed
 quantum_instance = QuantumInstance(backend=backend, seed_simulator=seed, seed_transpiler=seed)
 optimizer = COBYLA(maxiter=1000)
 
-# Using my general ansatz
+# calling the ansatz
 parameters = theta
 State = prepare(parameters)
 
