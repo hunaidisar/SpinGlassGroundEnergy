@@ -15,8 +15,8 @@ finally we use the VQE algorithm from qiskit to minimize those hamiltonians and 
 - Qiskit utils
 
   ## Project Participants:
-  Sara Alhunaidi : https://github.com/hunaidisar
-  Sarah Alotaibi :
-  Malak Alhabdan : https://github.com/malakalhabdan
-  Faten Almatari : https://github.com/fatenmatari
+  Sara Alhunaidi : https://github.com/hunaidisar  
+  Sarah Alotaibi : https://github.com/Sarah-f-alotaibi  
+  Malak Alhabdan : https://github.com/malakalhabdan  
+  Faten Almatari : https://github.com/fatenmatari  
   
