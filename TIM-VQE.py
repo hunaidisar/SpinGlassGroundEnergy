@@ -96,3 +96,7 @@ result = vqeqiskit.compute_minimum_eigenvalue(op)
 print(result)
 
 # after running the algorithm several times it is evedent that  the optimal point occurs at 'eigenvalue': (-1.8027756259198726+0j)
+# In conclusion:
+# with these probabilities : 'eigenstate': array([ 0.33361084+0.j, -0.62341165+0.j, -0.6234939 +0.j,  0.33364216+0.j])  
+# The ground anergy value is likely to be -1.8027756243683861 units
+
